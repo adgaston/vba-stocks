@@ -13,4 +13,4 @@ Small Dataset & PNG files provided.
 
 Screenshots below are of 2014, 2015 & 2016 figures:
 
-![stock 2014] (https://github.com/adgaston/vba-stocks/blob/master/Images/Stocks_2014Figures.png)
+![stock 2014](/Images/Stocks_2014Figures.png)
