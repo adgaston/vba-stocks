@@ -9,6 +9,8 @@ Created a script that:
 - Grabbed the total volume amount each stock had over the year
 - Included the ticker symbol
 
-Data & PNG files provided.
+Small Dataset & PNG files provided.
 
 Screenshots below are of 2014, 2015 & 2016 figures:
+
+![stock 2014] (Images/Stocks_2014Figures.png)
